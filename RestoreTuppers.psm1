@@ -26,7 +26,7 @@
     .PARAMETER Verify
     Interactive mode without saving data. Allows you to check the input file for errors and inconsistencies.
     .NOTES
-    This cmdlet is licensed under the MIT License.
+    This module is licensed under the MIT License.
 
     Copyright (c) 2023 Chaos Spindash
 
