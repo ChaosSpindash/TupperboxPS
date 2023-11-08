@@ -46,12 +46,8 @@ The module will be imported automatically, once you start a new PowerShell sessi
 
 ## Development
 The source code contains debug settings for development in **Visual Studio Code**. The `debug` folder contains PowerShell scripts to import the module and run the specified function inside the built-in terminal for easy debugging. It might be necessary to edit the debug scripts, as the contents are currently tailored to my workspace.
-<<<<<<< HEAD
 
-At the time of testing, this module works with PowerShell 7.3.
-=======
-At the time of testing, this module works with PowerShell 7.3
->>>>>>> 5b9406df168f000f4fd35fe2b1b2a42cbdfa9b88
+At the time of testing, this module works with PowerShell 7.3. I haven't yet tested it with 5.1.
 
 -----
 ## Why this module?
